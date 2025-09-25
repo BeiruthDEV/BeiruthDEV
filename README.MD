@@ -52,4 +52,14 @@ Email: matheusbeiruth10@gmail.com
 
 ---
 
+---
+
+## 📄 Currículo
+
+Você pode acessar meu currículo completo aqui:  
+- [Download em PDF](.pdf)  
+- [Download em Word](curriculo.docx)
+
+---
+
 ✨ Sempre aprendendo, sempre codando.
