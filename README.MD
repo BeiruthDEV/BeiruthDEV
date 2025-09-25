@@ -21,7 +21,7 @@ Sou **estudante de Engenharia de Software (8º período)** e desenvolvedor apaix
 | Projeto | Descrição | Link |
 |---------|-----------|------|
 | **Hour Tracker** | Controle de horas de trabalho feito em Python com SQLite | [Repositório](https://github.com/BeiruthDEV/Projeto-Pessoal-Hour-Tracker-Python-SQLite) |
-| **Gerador de Loteria** | Aplicação Python que gera apostas de loteria automaticamente | [Repositório](https:github.com/BeiruthDEV/Projeto-Pessoal-Gerador-de-Loteria-Python) |
+| **Gerador de Loteria** | Aplicação Python que gera apostas de loteria automaticamente | [Repositório](https://github.com/BeiruthDEV/Projeto-Pessoal-Gerador-de-Loteria-Python) |
 | **Flappy Bird Python** | Jogo clássico implementado em Python usando Pygame | [Repositório](https://github.com/BeiruthDEV/Flappy-bird-em-Python-Intelig-ncia-Artificial-e-Machine-Learning) |
 | **Atividade Avaliativa BD Não Relacional** | API desenvolvida com FastAPI e MongoDB | [Repositório](https://github.com/BeiruthDEV/Atividade-Avaliativa-BD-N-o-Relacional-API-FastAPI-MongoDB) |
 | **Atividade Avaliativa de Aplicativos Nativos** | Projeto de aplicativo nativo focado em boas práticas | [Repositório](https://github.com/BeiruthDEV/Atividade-Avaliativa-Laborat-rio-de-Desenvolvimento-de-Aplicativos-Nativos) |
