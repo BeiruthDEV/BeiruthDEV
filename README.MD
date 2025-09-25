@@ -47,8 +47,8 @@ Sou **estudante de Engenharia de Software (8º período)** e desenvolvedor apaix
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BeiruthDEV-blue?style=flat&logo=linkedin)](www.linkedin.com/in/matheusbeiruth)  
-[![E-mail](https://img.shields.io/badge/E-mail-beiruthdev@example.com-red?style=flat&logo=gmail)](matheusbeiruth10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BeiruthDEV-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheusbeiruth)  
+[![E-mail](https://img.shields.io/badge/E-mail-beiruthdev@example.com-red?style=flat&logo=gmail)](mailto:matheusbeiruth10@gmail.com))
 
 ---
 
