@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Beiruth
+# 👋 Olá, eu sou o Matheus Beiruth
 
 Sou **estudante de Engenharia de Software (8º período)** e desenvolvedor apaixonado por programação, com foco em **Python, Java, desenvolvimento web e APIs**. Gosto de criar soluções escaláveis, explorar novas tecnologias e contribuir para a comunidade open-source.  
 
