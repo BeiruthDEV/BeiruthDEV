@@ -57,7 +57,7 @@ Email: matheusbeiruth10@gmail.com
 ## 📄 Currículo
 
 Você pode acessar meu currículo completo aqui:  
-- [Download em PDF](.pdf)  
+- [Download em PDF](Currículo Matheus Beiruth Back-End (3).pdf)  
 - [Download em Word](curriculo.docx)
 
 ---
