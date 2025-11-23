@@ -7,24 +7,26 @@ Sou **estudante de Engenharia de Software (8º período)** e desenvolvedor apaix
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
 ---
 
 ## 📂 Projetos em Destaque
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
+| **TransFlow API (Backend)** | Sistema de alta performance para gestão de trânsito urbano (Uber-like) utilizando **FastAPI, RabbitMQ, Redis e MongoDB** em arquitetura de microsserviços. | [Repositório](https://github.com/BeiruthDEV/transflow-backend) |
+| **Otimização Logística (Soja)** | Simulação estratégica de escoamento de safra usando **Teoria dos Grafos (NetworkX)** e visualização de dados para análise de rotas críticas. | [Repositório](https://github.com/BeiruthDEV/otimizacao-logistica-soja) |
 | **Hour Tracker** | Controle de horas de trabalho feito em Python com SQLite | [Repositório](https://github.com/BeiruthDEV/Projeto-Pessoal-Hour-Tracker-Python-SQLite) |
 | **Gerador de Loteria** | Aplicação Python que gera apostas de loteria automaticamente | [Repositório](https://github.com/BeiruthDEV/Projeto-Pessoal-Gerador-de-Loteria-Python) |
 | **Flappy Bird Python** | Jogo clássico implementado em Python usando Pygame | [Repositório](https://github.com/BeiruthDEV/Flappy-bird-em-Python-Intelig-ncia-Artificial-e-Machine-Learning) |
-| **Atividade Avaliativa BD Não Relacional** | API desenvolvida com FastAPI e MongoDB | [Repositório](https://github.com/BeiruthDEV/Atividade-Avaliativa-BD-N-o-Relacional-API-FastAPI-MongoDB) |
-| **Atividade Avaliativa de Aplicativos Nativos** | Projeto de aplicativo nativo focado em boas práticas | [Repositório](https://github.com/BeiruthDEV/Atividade-Avaliativa-Laborat-rio-de-Desenvolvimento-de-Aplicativos-Nativos) |
 
 ---
 
