@@ -2,7 +2,7 @@
 
 <!-- Animação de digitação no header -->
 <a href="https://github.com/BeiruthDEV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Matheus+Beiruth+%F0%9F%91%8B;Engenheiro+Backend+%7C+Arquiteto+de+APIs;Construindo+Sistemas+Escal%C3%A1veis+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Oi%2C+eu+sou+o+Matheus+Beiruth+%F0%9F%91%8B;Engenheiro+Backend+%7C+Arquiteto+de+APIs;Construindo+Sistemas+Escal%C3%A1veis+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
