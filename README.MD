@@ -1,130 +1,187 @@
-<div align="center">
+# Matheus Beiruth
 
-<!-- Animação de digitação no header -->
-<a href="https://github.com/BeiruthDEV">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Oi%2C+eu+sou+o+Matheus+Beiruth+%F0%9F%91%8B;Engenheiro+Backend+%7C+Arquiteto+de+APIs;Construindo+Sistemas+Escal%C3%A1veis+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+**Software Engineer focused on building useful financial products, reliable backends, and systems that help people make better decisions.**
 
-<br/>
+I design and build software with one constraint above all others: if it does not improve the user's reality, it does not belong in the product.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Beiruth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbeiruth)
-[![Email](https://img.shields.io/badge/Email-matheusbeiruth10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusbeiruth10@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BeiruthDEV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BeiruthDEV)
-
-</div>
+<p>
+  <a href="https://github.com/BeiruthDEV">GitHub</a> /
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui">LinkedIn</a> /
+  <a href="mailto:seuemail@exemplo.com">Email</a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Positioning
 
-Sou estudante de **Engenharia de Software (8º período)** com foco em desenvolvimento backend, sistemas distribuídos e design de APIs escaláveis. Gosto de enfrentar desafios técnicos complexos — de arquitetura de microsserviços a algoritmos de otimização baseados em grafos.
+I work at the intersection of **software engineering, product thinking, and operational clarity**.
 
-- 🔭 Atualmente construindo a **TransFlow API** — sistema de gestão de trânsito urbano de alta performance
-- 🧠 Apaixonado por **sistemas distribuídos**, **filas de mensagens** e **arquitetura limpa**
-- 🌱 Sempre expandindo meus conhecimentos em **design de sistemas** e **estruturas de dados**
-- ⚡ Escrevo código que escala — e me preocupo com o *como* ele escala
+My focus is not shipping features for volume. It is building systems that solve concrete problems with precision, especially in environments where **financial visibility, data organization, and decision quality** matter.
 
----
-
-## 🛠️ Stack Tecnológica
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frameworks e Bibliotecas
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Infraestrutura e DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Dados e Algoritmos
-![NetworkX](https://img.shields.io/badge/NetworkX-008080?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+Today, my main direction is the development of an **intelligent financial control system** designed to help users understand spending behavior, organize routines, and operate with more control instead of more noise.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Featured Product
 
-### 🚗 [TransFlow API](https://github.com/BeiruthDEV/transflow-backend)
-> Sistema de gestão de trânsito urbano de alta performance (estilo Uber)
+## Intelligent Financial Control System
 
-Construído com **arquitetura de microsserviços** usando FastAPI, RabbitMQ para mensageria assíncrona, Redis para cache e MongoDB para armazenamento flexível de dados. Projetado para escalabilidade e alta responsividade em tempo real.
+This is the product I am building to solve a problem that is still poorly addressed by many personal finance tools: they record transactions, but they do not really help people **understand what is happening**.
 
-`FastAPI` `RabbitMQ` `Redis` `MongoDB` `Microsserviços` `Docker`
+### The problem
+
+Most finance apps stop at categorization. They show numbers, charts, and filters, but leave the cognitive work to the user.
+
+The result is predictable:
+
+- fragmented view of spending
+- poor visibility into recurring financial mistakes
+- weak monthly planning
+- low trust in the data because the system does not explain enough
+
+### The product direction
+
+The system is being designed to turn raw financial data into **clear, actionable interpretation**.
+
+- automatic organization of expenses with practical context
+- analysis of spending patterns instead of simple transaction logs
+- visibility into waste, recurrence, and behavioral drift
+- prioritization of useful insights over ornamental dashboards
+- structure prepared for real product evolution, not demo-only features
+
+### Why this matters
+
+The value of a financial product is not in displaying balances. It is in helping the user answer questions like:
+
+- where the money is leaking
+- what changed this month
+- which costs became routine without justification
+- what can be corrected before it becomes a bigger problem
+
+### Product snapshot
+
+| Area | What it communicates |
+| --- | --- |
+| Overview Dashboard | Monthly financial pulse, category concentration, spending movement |
+| Smart Analysis | Pattern detection, anomaly flags, recurring expense interpretation |
+| Planning Layer | Budget guidance, target tracking, financial routine organization |
+| Operational Detail | Fast search, clean history, filters that support decisions |
+
+### Simulated metrics
+
+These are product-direction metrics used to communicate the level of ambition and system thinking behind the project.
+
+| Metric | Current product narrative |
+| --- | --- |
+| Financial records structured | `25k+` simulated entries processed |
+| Spending analyses generated | `4.8k+` analytical interpretations |
+| Average monthly categories mapped | `18` per user profile |
+| Primary goal | Reduce friction between data and action |
+
+### Interface placeholders
+
+Replace these placeholders with real screenshots as the product evolves.
+
+| Screen | Preview |
+| --- | --- |
+| Dashboard overview | `[ dashboard-overview.png ]` |
+| Smart spending analysis | `[ analysis-insights.png ]` |
+| Monthly planning flow | `[ monthly-planning.png ]` |
+| Transaction intelligence | `[ transaction-detail.png ]` |
+
+### In development
+
+- spending anomaly detection
+- recurring expense intelligence
+- frictionless monthly closing workflow
+- clearer cause-and-effect explanations for spending changes
+
+### Short roadmap
+
+| Phase | Focus |
+| --- | --- |
+| Now | Strong data foundation, reliable categorization, readable analysis |
+| Next | Comparative monthly intelligence and sharper recommendations |
+| Later | Financial routine automation and decision-support workflows |
 
 ---
 
-### 🌱 [Otimização Logística — Safra de Soja](https://github.com/BeiruthDEV/otimizacao-logistica-soja)
-> Simulação estratégica de escoamento de safra agrícola
+## Technology Stack
 
-Aplica **Teoria dos Grafos (NetworkX)** para modelar e otimizar o fluxo de escoamento da soja entre rotas de transporte. Inclui análise de caminhos críticos e visualização de dados para suporte à tomada de decisão.
+The stack is selected for durability, maintainability, and product fit.
 
-`Python` `NetworkX` `Teoria dos Grafos` `Visualização de Dados` `Otimização`
-
----
-
-### ⏱️ [Hour Tracker](https://github.com/BeiruthDEV/Projeto-Pessoal-Hour-Tracker-Python-SQLite)
-> Aplicação CLI para controle de horas de trabalho
-
-Ferramenta pessoal de produtividade construída com Python e SQLite. Demonstra modelagem de dados limpa e persistência local sem dependências externas.
-
-`Python` `SQLite` `CLI`
+| Layer | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, Next.js or modern web stack where product velocity matters |
+| Backend | Python, FastAPI, Java, Spring Boot |
+| Data | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
+| Infrastructure | Docker, Linux, Git, messaging and API-first architecture |
+| Analysis | SQL, data modeling, workflow automation, pattern-oriented logic |
 
 ---
 
-### 🎮 [Flappy Bird — IA e Machine Learning](https://github.com/BeiruthDEV/Flappy-bird-em-Python-Intelig-ncia-Artificial-e-Machine-Learning)
-> Jogo clássico reimplementado com agente de inteligência artificial
+## Development Philosophy
 
-Versão do Flappy Bird em Pygame com lógica de IA/ML para jogo autônomo. Uma exploração prática de conceitos de aprendizado por reforço.
+I build with a few principles that shape both the codebase and the product itself.
 
-`Python` `Pygame` `Machine Learning` `Inteligência Artificial`
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BeiruthDEV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=pt-br" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiruthDEV&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeiruthDEV&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
+- **Utility over feature volume**. If a feature looks impressive but does not improve decisions, it should not exist.
+- **Clarity before complexity**. Systems should be understandable under pressure, not only elegant in ideal conditions.
+- **Product is part of engineering**. Good backend work includes modeling the right problem, not only implementing endpoints.
+- **Performance is a trust signal**. Slow, unstable, or confusing products lose credibility quickly.
+- **Visual discipline matters**. Clean interfaces are not decoration; they reduce cognitive load and improve adoption.
 
 ---
 
-## 🎓 Formação e Aprendizado
+## Selected Projects
 
-| Área | Detalhes |
-|------|---------|
-| 🎓 **Engenharia de Software** | 8º período — graduação |
-| ☕ **Java & Spring Boot** | Aplicações web e desenvolvimento de APIs REST |
-| 🗄️ **MySQL** | Curso completo de banco de dados |
-| 📚 **Estrutura de Dados** | Curso do Augusto Galego |
+### Financial Control System
+An intelligent finance product focused on spending analysis, organization, and practical decision support. Built around real user behavior, not vanity dashboards.
+
+### TransFlow API
+Backend architecture for high-throughput mobility and transport flows, with emphasis on scalability, asynchronous communication, and operational reliability.
+
+### Logistics Optimization
+Applied graph-based modeling for route and flow optimization. A systems-thinking project grounded in efficiency, tradeoffs, and decision support.
+
+### Hour Tracker
+A focused utility product for tracking working hours with low friction and clean persistence. Small scope, strong practical value.
 
 ---
 
-<div align="center">
+## Differentials
 
-*"Primeiro, resolva o problema. Depois, escreva o código."*
+- I do not separate engineering quality from product quality.
+- I think in systems, not isolated screens or endpoints.
+- I prioritize software that creates operational leverage for the user.
+- I care about the readability of both the interface and the architecture behind it.
+- I treat usefulness as a design constraint, not a nice-to-have.
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=BeiruthDEV&color=6C63FF&style=flat-square&label=Visualizações+do+Perfil)
+---
 
-</div>
+## What This Profile Signals
+
+This repository is meant to communicate a specific profile:
+
+- engineer capable of building real products end to end
+- technical thinking with business and user awareness
+- preference for robust systems over shallow demos
+- taste for clear execution, restrained design, and practical value
+
+---
+
+## Contact
+
+- GitHub: [github.com/BeiruthDEV](https://github.com/BeiruthDEV)
+- LinkedIn: [linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/seu-linkedin-aqui)
+- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+
+---
+
+## Repository Notes
+
+To strengthen this profile further, the next step is not adding more decoration. It is adding sharper proof:
+
+- real screenshots from the finance product
+- a concise architecture section for the main system
+- short case studies showing the problem, approach, and outcome
+- pinned repositories aligned with the positioning above
