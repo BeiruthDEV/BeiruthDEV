@@ -1,127 +1,173 @@
-## Matheus Beiruth
+<h1 align="left">Matheus Beiruth</h1>
 
-I build systems that turn data into decisions.
+<p align="left">
+  <b>Systems. Not dashboards.</b><br>
+  Turning financial data into decisions people can act on.
+</p>
 
-Not dashboards. Not noise. Systems people can actually use.
-
----
-
-### What I do
-
-Software Engineer working at the intersection of:
-
-- financial systems
-- backend architecture
-- product-driven engineering
-
-I focus on one constraint above all:
-
-> If it doesn’t improve the user’s reality, it doesn’t belong in the product.
+<p align="left">
+  <img src="https://img.shields.io/badge/status-building-black?style=flat">
+  <img src="https://img.shields.io/badge/focus-financial%20systems-informational?style=flat">
+  <img src="https://img.shields.io/badge/approach-product--driven-critical?style=flat">
+</p>
 
 ---
 
-### Main Work
+## /system/overview
 
-#### Intelligent Financial Control System
+```bash
+> initializing profile...
 
-Most finance apps record transactions.
+role: software engineer
+focus: backend systems + financial intelligence
+mode: building real products
 
-They don’t explain anything.
+constraint:
+if it doesn't improve the user's reality -> it does not ship
+```
 
-This system is being built to fix that.
+## /system/primary
 
-Instead of showing data, it answers:
+```bash
+intelligent-financial-control-system
+status      : in progress
+objective   : reduce friction between data and action
+direction   : behavior analysis > raw transaction display
+```
 
-- where money is leaking  
-- what changed this month  
-- which costs became invisible habits  
-- what can be corrected before it scales  
+## /system/problem
 
----
+```bash
+current tools:
+  - record transactions
+  - categorize expenses
+  - display dashboards
 
-### Product Direction
+missing:
+  - interpretation
+  - context
+  - decision support
 
-- automatic expense structuring with real context  
-- pattern-based spending analysis  
-- anomaly and recurrence detection  
-- decision-oriented insights, not decorative dashboards  
+result:
+  -> fragmented financial awareness
+  -> recurring unnoticed mistakes
+  -> low trust in data
+```
 
----
+## /system/solution
 
-### System Scope
+```bash
+pipeline:
 
-| Layer | Purpose |
-|------|--------|
-| Overview | Financial pulse and category concentration |
-| Analysis | Pattern detection and behavioral insight |
-| Planning | Budget direction and routine structuring |
-| Detail | Fast navigation and operational clarity |
+[ raw data ]
+     |
+     v
+[ structuring ]
+     |
+     v
+[ pattern detection ]
+     |
+     v
+[ insight generation ]
+     |
+     v
+[ decision support ]
+```
 
----
+## /system/queries
 
-### Current Build Signals
+```bash
+the system answers:
 
-- 25k+ structured financial records  
-- 4.8k+ analytical outputs generated  
-- 18 average categories per profile  
+-> where is money leaking?
+-> what changed this month?
+-> which costs became habits?
+-> what needs correction now?
+```
 
-Goal: reduce friction between data and action.
+## /system/modules
 
----
+```bash
+module      function
+overview    financial pulse + category weight
+analysis    pattern detection + anomalies
+planning    budget direction + routine
+detail      fast search + clarity
+```
 
-### Stack
+## /system/signals
 
-**Frontend**  
-React, TypeScript, modern web stack
+```bash
+records_processed      : 25k+
+analysis_generated     : 4.8k+
+avg_categories_profile : 18
 
-**Backend**  
-Python (FastAPI), Java (Spring Boot)
+goal:
+minimize cognitive load between data and action
+```
 
-**Data**  
-PostgreSQL, Redis, SQL-based modeling
+## /system/stack
 
-**Infrastructure**  
-Docker, Linux, API-first systems
+```bash
+frontend  -> react / typescript
+backend   -> fastapi / spring boot
+data      -> postgresql / redis
+infra     -> docker / linux
+logic     -> sql modeling / pattern systems
+```
 
----
+## /system/principles
 
-### How I Build
+```bash
+utility        > feature volume
+clarity        > complexity
+systems        > endpoints
+performance    = trust
+interface      = cognitive control
+```
 
-- utility > feature volume  
-- clarity > unnecessary complexity  
-- product thinking is part of engineering  
-- performance is non-negotiable  
-- clean interfaces reduce cognitive load  
+## /system/work
 
----
+```bash
+financial-control-system
+-> behavioral finance analysis engine
 
-### Selected Work
+transflow-api
+-> high-throughput backend architecture
 
-**Financial Control System**  
-Spending analysis and decision-support product
+logistics-optimization
+-> graph-based decision systems
 
-**TransFlow API**  
-High-throughput backend for mobility systems
+hour-tracker
+-> low-friction utility product
+```
 
-**Logistics Optimization**  
-Graph-based modeling for routing and efficiency
+## /system/live
 
-**Hour Tracker**  
-Low-friction time tracking tool
+```bash
+-> anomaly detection (spending)
+-> recurring cost intelligence
+-> monthly closing workflow
+-> cause-effect analysis
+```
 
----
+## /system/signal
 
-### What this profile represents
+```bash
+this profile represents:
 
-- real product thinking  
-- systems, not isolated features  
-- engineering aligned with usefulness  
-- preference for clarity over noise  
+-> real systems thinking
+-> product-driven engineering
+-> clarity over noise
+-> usefulness as constraint
+```
 
----
+## /system/contact
 
-### Contact
+```bash
+github    -> github.com/BeiruthDEV
+linkedin  -> (add)
+email     -> (add)
+```
 
-GitHub: github.com/BeiruthDEV  
-LinkedIn: (add here)  
-Email: (add here)
+<p align="left"><i>system status: evolving</i></p>
