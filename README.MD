@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- AnimaÃ§Ã£o de digitaÃ§Ã£o no header -->
+<!-- Animação de digitação no header -->
 <a href="https://github.com/BeiruthDEV">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Oi%2C+eu+sou+o+Matheus+Beiruth+%F0%9F%91%8B;Engenheiro+Backend+%7C+Arquiteto+de+APIs;Construindo+Sistemas+Escal%C3%A1veis+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -15,18 +15,18 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software (8Âº perÃ­odo)** com foco em desenvolvimento backend, sistemas distribuÃ­dos e design de APIs escalÃ¡veis. Gosto de enfrentar desafios tÃ©cnicos complexos â€” de arquitetura de microsserviÃ§os a algoritmos de otimizaÃ§Ã£o baseados em grafos.
+Sou estudante de **Engenharia de Software (8º período)** com foco em desenvolvimento backend, sistemas distribuídos e design de APIs escaláveis. Gosto de enfrentar desafios técnicos complexos — de arquitetura de microsserviços a algoritmos de otimização baseados em grafos.
 
-- ðŸ”­ Atualmente construindo a **TransFlow API** â€” sistema de gestÃ£o de trÃ¢nsito urbano de alta performance
-- ðŸ§  Apaixonado por **sistemas distribuÃ­dos**, **filas de mensagens** e **arquitetura limpa**
-- ðŸŒ± Sempre expandindo meus conhecimentos em **design de sistemas** e **estruturas de dados**
-- âš¡ Escrevo cÃ³digo que escala â€” e me preocupo com o *como* ele escala
+- 🔭 Atualmente construindo a **TransFlow API** — sistema de gestão de trânsito urbano de alta performance
+- 🧠 Apaixonado por **sistemas distribuídos**, **filas de mensagens** e **arquitetura limpa**
+- 🌱 Sempre expandindo meus conhecimentos em **design de sistemas** e **estruturas de dados**
+- ⚡ Escrevo código que escala — e me preocupo com o *como* ele escala
 
 ---
 
-## ðŸ› ï¸ Stack TecnolÃ³gica
+## 🛠️ Stack Tecnológica
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,45 +57,45 @@ Sou estudante de **Engenharia de Software (8Âº perÃ­odo)** com foco em desen
 
 ---
 
-## ðŸš€ Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### ðŸš— [TransFlow API](https://github.com/BeiruthDEV/transflow-backend)
-> Sistema de gestÃ£o de trÃ¢nsito urbano de alta performance (estilo Uber)
+### 🚗 [TransFlow API](https://github.com/BeiruthDEV/transflow-backend)
+> Sistema de gestão de trânsito urbano de alta performance (estilo Uber)
 
-ConstruÃ­do com **arquitetura de microsserviÃ§os** usando FastAPI, RabbitMQ para mensageria assÃ­ncrona, Redis para cache e MongoDB para armazenamento flexÃ­vel de dados. Projetado para escalabilidade e alta responsividade em tempo real.
+Construído com **arquitetura de microsserviços** usando FastAPI, RabbitMQ para mensageria assíncrona, Redis para cache e MongoDB para armazenamento flexível de dados. Projetado para escalabilidade e alta responsividade em tempo real.
 
-`FastAPI` `RabbitMQ` `Redis` `MongoDB` `MicrosserviÃ§os` `Docker`
-
----
-
-### ðŸŒ± [OtimizaÃ§Ã£o LogÃ­stica â€” Safra de Soja](https://github.com/BeiruthDEV/otimizacao-logistica-soja)
-> SimulaÃ§Ã£o estratÃ©gica de escoamento de safra agrÃ­cola
-
-Aplica **Teoria dos Grafos (NetworkX)** para modelar e otimizar o fluxo de escoamento da soja entre rotas de transporte. Inclui anÃ¡lise de caminhos crÃ­ticos e visualizaÃ§Ã£o de dados para suporte Ã  tomada de decisÃ£o.
-
-`Python` `NetworkX` `Teoria dos Grafos` `VisualizaÃ§Ã£o de Dados` `OtimizaÃ§Ã£o`
+`FastAPI` `RabbitMQ` `Redis` `MongoDB` `Microsserviços` `Docker`
 
 ---
 
-### â±ï¸ [Hour Tracker](https://github.com/BeiruthDEV/Projeto-Pessoal-Hour-Tracker-Python-SQLite)
-> AplicaÃ§Ã£o CLI para controle de horas de trabalho
+### 🌱 [Otimização Logística — Safra de Soja](https://github.com/BeiruthDEV/otimizacao-logistica-soja)
+> Simulação estratégica de escoamento de safra agrícola
 
-Ferramenta pessoal de produtividade construÃ­da com Python e SQLite. Demonstra modelagem de dados limpa e persistÃªncia local sem dependÃªncias externas.
+Aplica **Teoria dos Grafos (NetworkX)** para modelar e otimizar o fluxo de escoamento da soja entre rotas de transporte. Inclui análise de caminhos críticos e visualização de dados para suporte à tomada de decisão.
+
+`Python` `NetworkX` `Teoria dos Grafos` `Visualização de Dados` `Otimização`
+
+---
+
+### ⏱️ [Hour Tracker](https://github.com/BeiruthDEV/Projeto-Pessoal-Hour-Tracker-Python-SQLite)
+> Aplicação CLI para controle de horas de trabalho
+
+Ferramenta pessoal de produtividade construída com Python e SQLite. Demonstra modelagem de dados limpa e persistência local sem dependências externas.
 
 `Python` `SQLite` `CLI`
 
 ---
 
-### ðŸŽ® [Flappy Bird â€” IA e Machine Learning](https://github.com/BeiruthDEV/Flappy-bird-em-Python-Intelig-ncia-Artificial-e-Machine-Learning)
-> Jogo clÃ¡ssico reimplementado com agente de inteligÃªncia artificial
+### 🎮 [Flappy Bird — IA e Machine Learning](https://github.com/BeiruthDEV/Flappy-bird-em-Python-Intelig-ncia-Artificial-e-Machine-Learning)
+> Jogo clássico reimplementado com agente de inteligência artificial
 
-VersÃ£o do Flappy Bird em Pygame com lÃ³gica de IA/ML para jogo autÃ´nomo. Uma exploraÃ§Ã£o prÃ¡tica de conceitos de aprendizado por reforÃ§o.
+Versão do Flappy Bird em Pygame com lógica de IA/ML para jogo autônomo. Uma exploração prática de conceitos de aprendizado por reforço.
 
-`Python` `Pygame` `Machine Learning` `InteligÃªncia Artificial`
+`Python` `Pygame` `Machine Learning` `Inteligência Artificial`
 
 ---
 
-## ðŸ“Š EstatÃ­sticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -110,21 +110,21 @@ VersÃ£o do Flappy Bird em Pygame com lÃ³gica de IA/ML para jogo autÃ´nomo.
 
 ---
 
-## ðŸŽ“ FormaÃ§Ã£o e Aprendizado
+## 🎓 Formação e Aprendizado
 
-| Ãrea | Detalhes |
+| Área | Detalhes |
 |------|---------|
-| ðŸŽ“ **Engenharia de Software** | 8Âº perÃ­odo â€” graduaÃ§Ã£o |
-| â˜• **Java & Spring Boot** | AplicaÃ§Ãµes web e desenvolvimento de APIs REST |
-| ðŸ—„ï¸ **MySQL** | Curso completo de banco de dados |
-| ðŸ“š **Estrutura de Dados** | Curso do Augusto Galego |
+| 🎓 **Engenharia de Software** | 8º período — graduação |
+| ☕ **Java & Spring Boot** | Aplicações web e desenvolvimento de APIs REST |
+| 🗄️ **MySQL** | Curso completo de banco de dados |
+| 📚 **Estrutura de Dados** | Curso do Augusto Galego |
 
 ---
 
 <div align="center">
 
-*"Primeiro, resolva o problema. Depois, escreva o cÃ³digo."*
+*"Primeiro, resolva o problema. Depois, escreva o código."*
 
-![VisualizaÃ§Ãµes do perfil](https://komarev.com/ghpvc/?username=BeiruthDEV&color=6C63FF&style=flat-square&label=VisualizaÃ§Ãµes+do+Perfil)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=BeiruthDEV&color=6C63FF&style=flat-square&label=Visualizações+do+Perfil)
 
 </div>
