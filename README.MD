@@ -7,9 +7,19 @@
 <br />
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Beiruth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbeiruth)
-[![Email](https://img.shields.io/badge/Email-matheusbeiruth10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusbeiruth10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-BeiruthDEV.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://beiruthdev.github.io/)
+<p>
+  <a href="https://www.linkedin.com/in/matheusbeiruth" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:matheusbeiruth10@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://beiruthdev.github.io/" title="Portfolio">
+    <img src="https://cdn.simpleicons.org/githubpages/FFFFFF" alt="Portfolio" width="28" height="28" />
+  </a>
+</p>
 
 </div>
 
@@ -30,25 +40,14 @@ Gosto de construir produtos que nao ficam so bonitos no README: busco arquitetur
 ## Stack principal
 
 ### Linguagens e frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,fastapi,django,spring,nextjs,react" />
+</p>
 
 ### Dados, infraestrutura e arquitetura
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq,docker,linux,git" />
+</p>
 
 ---
 
