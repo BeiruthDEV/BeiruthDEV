@@ -48,14 +48,22 @@ Meu interesse esta em construir software com base tecnica forte: dominio bem mod
 ### [SCALE](https://github.com/BeiruthDEV/SCALE)
 Aplicacao para treino e nutricao com proposta de produto mais madura, identidade visual forte e foco em experiencia de uso. Projeto desenvolvido como TCC.
 
-[![Preview do SCALE](./assets/scale.png)](https://github.com/BeiruthDEV/SCALE)
+<p>
+  <a href="https://github.com/BeiruthDEV/SCALE">
+    <img src="./assets/scale.png" alt="Preview do SCALE" width="84%" />
+  </a>
+</p>
 
 `JavaScript` `Produto digital` `Treino` `Nutricao`
 
 ### [Orbia](https://github.com/BeiruthDEV/Orbia)
 Sistema web em Django para gestao de empresas, representantes, projetos e pesquisas, com autenticacao e permissoes por tipo de usuario.
 
-[![Preview do Orbia](./assets/orbia.png)](https://github.com/BeiruthDEV/Orbia)
+<p>
+  <a href="https://github.com/BeiruthDEV/Orbia">
+    <img src="./assets/orbia.png" alt="Preview do Orbia" width="84%" />
+  </a>
+</p>
 
 `Django` `Python` `Sistema web` `Autenticacao`
 
@@ -64,10 +72,10 @@ SaaS de financas pessoais com dashboard, parsing de PDF/CSV, categorizacao autom
 
 <p>
   <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
-    <img src="./assets/gestao_ativa_1.png" alt="Preview 1 do gestao-ativa-demo" width="49%" />
+    <img src="./assets/gestao_ativa_1.png" alt="Preview 1 do gestao-ativa-demo" width="41.5%" />
   </a>
   <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
-    <img src="./assets/gestao_ativa_2.png" alt="Preview 2 do gestao-ativa-demo" width="49%" />
+    <img src="./assets/gestao_ativa_2.png" alt="Preview 2 do gestao-ativa-demo" width="41.5%" />
   </a>
 </p>
 
@@ -76,7 +84,11 @@ SaaS de financas pessoais com dashboard, parsing de PDF/CSV, categorizacao autom
 ### [loveline-demo](https://github.com/BeiruthDEV/loveline-demo)
 Produto SaaS pensado para casais registrarem a historia do relacionamento em uma timeline compartilhada, com foco em experiencia, memoria e recorrencia.
 
-[![Preview do loveline-demo](./assets/loveline.png)](https://github.com/BeiruthDEV/loveline-demo)
+<p>
+  <a href="https://github.com/BeiruthDEV/loveline-demo">
+    <img src="./assets/loveline.png" alt="Preview do loveline-demo" width="84%" />
+  </a>
+</p>
 
 `SaaS` `Produto digital` `Timeline`
 
