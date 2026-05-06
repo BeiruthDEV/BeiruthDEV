@@ -48,20 +48,35 @@ Meu interesse esta em construir software com base tecnica forte: dominio bem mod
 ### [SCALE](https://github.com/BeiruthDEV/SCALE)
 Aplicacao para treino e nutricao com proposta de produto mais madura, identidade visual forte e foco em experiencia de uso. Projeto desenvolvido como TCC.
 
+[![Preview do SCALE](./assets/scale.png)](https://github.com/BeiruthDEV/SCALE)
+
 `JavaScript` `Produto digital` `Treino` `Nutricao`
 
 ### [Orbia](https://github.com/BeiruthDEV/Orbia)
 Sistema web em Django para gestao de empresas, representantes, projetos e pesquisas, com autenticacao e permissoes por tipo de usuario.
+
+[![Preview do Orbia](./assets/orbia.png)](https://github.com/BeiruthDEV/Orbia)
 
 `Django` `Python` `Sistema web` `Autenticacao`
 
 ### [gestao-ativa-demo](https://github.com/BeiruthDEV/gestao-ativa-demo)
 SaaS de financas pessoais com dashboard, parsing de PDF/CSV, categorizacao automatica de transacoes e deteccao de recorrencias.
 
+<p>
+  <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
+    <img src="./assets/gestao_ativa_1.png" alt="Preview 1 do gestao-ativa-demo" width="49%" />
+  </a>
+  <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
+    <img src="./assets/gestao_ativa_2.png" alt="Preview 2 do gestao-ativa-demo" width="49%" />
+  </a>
+</p>
+
 `Next.js` `FastAPI` `Python` `SaaS`
 
 ### [loveline-demo](https://github.com/BeiruthDEV/loveline-demo)
 Produto SaaS pensado para casais registrarem a historia do relacionamento em uma timeline compartilhada, com foco em experiencia, memoria e recorrencia.
+
+[![Preview do loveline-demo](./assets/loveline.png)](https://github.com/BeiruthDEV/loveline-demo)
 
 `SaaS` `Produto digital` `Timeline`
 
