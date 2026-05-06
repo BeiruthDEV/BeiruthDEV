@@ -8,17 +8,11 @@
 <br />
 
 <p>
-  <a href="https://www.linkedin.com/in/matheusbeiruth" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:matheusbeiruth10@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" height="28" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://beiruthdev.github.io/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/githubpages/FFFFFF" alt="Portfolio" width="28" height="28" />
-  </a>
+  <a href="https://www.linkedin.com/in/matheusbeiruth">LinkedIn</a>
+  •
+  <a href="mailto:matheusbeiruth10@gmail.com">Email</a>
+  •
+  <a href="https://beiruthdev.github.io/">Portfolio</a>
 </p>
 
 </div>
