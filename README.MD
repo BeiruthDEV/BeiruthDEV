@@ -97,10 +97,16 @@ Aplicacao full stack de e-commerce usada para demonstrar Padroes de Projeto em u
 
 `TypeScript` `E-commerce` `Design Patterns` `Full Stack`
 
-### [transflow-backend](https://github.com/BeiruthDEV/transflow-backend)
-Backend orientado a eventos para gestao de corridas urbanas, com foco em escalabilidade, processamento assincrono e arquitetura de microsservicos.
+### [TaskManagerAPI](https://github.com/BeiruthDEV/TaskManagerAPI)
+API REST para gerenciamento de tarefas, criada com Spring Boot 3, Spring Data JPA e H2 Database.
+<p>
+  <a href="https://github.com/BeiruthDEV/TaskManagerAPI">
+    <img src="./assets/Trackio.png" alt="Preview do loveline-demo" width="84%" />
+  </a>
+</p>
 
-`FastAPI` `RabbitMQ` `Redis` `MongoDB` `Docker`
+
+`Java 17+` `Spring Boot 3` `H2 Database` `OpenAPI / Swagger` `Spring Data JPA`
 
 ---
 
