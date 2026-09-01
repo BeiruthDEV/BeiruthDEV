@@ -45,28 +45,6 @@ Meu interesse esta em construir software com base tecnica forte: dominio bem mod
 
 ## Projetos em Destaque
 
-### [SCALE](https://github.com/BeiruthDEV/SCALE)
-Aplicacao para treino e nutricao com proposta de produto mais madura, identidade visual forte e foco em experiencia de uso. Projeto desenvolvido como TCC.
-
-<p>
-  <a href="https://github.com/BeiruthDEV/SCALE">
-    <img src="./assets/scale.png" alt="Preview do SCALE" width="84%" />
-  </a>
-</p>
-
-`JavaScript` `Produto digital` `Treino` `Nutricao`
-
-### [Orbia](https://github.com/BeiruthDEV/Orbia)
-Sistema web em Django para gestao de empresas, representantes, projetos e pesquisas, com autenticacao e permissoes por tipo de usuario.
-
-<p>
-  <a href="https://github.com/BeiruthDEV/Orbia">
-    <img src="./assets/orbia.png" alt="Preview do Orbia" width="84%" />
-  </a>
-</p>
-
-`Django` `Python` `Sistema web` `Autenticacao`
-
 ### [gestao-ativa-demo](https://github.com/BeiruthDEV/gestao-ativa-demo)
 SaaS de financas pessoais com dashboard, parsing de PDF/CSV, categorizacao automatica de transacoes e deteccao de recorrencias.
 
@@ -81,27 +59,33 @@ SaaS de financas pessoais com dashboard, parsing de PDF/CSV, categorizacao autom
 
 `Next.js` `FastAPI` `Python` `SaaS`
 
-### [loveline-demo](https://github.com/BeiruthDEV/loveline-demo)
-Produto SaaS pensado para casais registrarem a historia do relacionamento em uma timeline compartilhada, com foco em experiencia, memoria e recorrencia.
+### [express-jwt-docker-api](https://github.com/BeiruthDEV/express-jwt-docker-api)
+API REST de catalogo de veiculos (carros, motos e marcas) construida com Express e autenticacao JWT, empacotada com Docker para deploy simples. Acompanha um dashboard que consome os dados reais da API.
 
 <p>
-  <a href="https://github.com/BeiruthDEV/loveline-demo">
-    <img src="./assets/loveline.png" alt="Preview do loveline-demo" width="84%" />
+  <a href="https://github.com/BeiruthDEV/express-jwt-docker-api">
+    <img src="./assets/express_jwt_api.png" alt="Preview da express-jwt-docker-api" width="84%" />
   </a>
 </p>
 
-`SaaS` `Produto digital` `Timeline`
+`Node.js` `Express` `JWT` `Docker`
 
-### [ecommerce-design](https://github.com/BeiruthDEV/ecommerce-design)
-Aplicacao full stack de e-commerce usada para demonstrar Padroes de Projeto em um fluxo completo de checkout, pagamento e gestao de pedidos.
+### [Orbia](https://github.com/BeiruthDEV/Orbia)
+Sistema web em Django para gestao de empresas, representantes, projetos e pesquisas, com autenticacao e permissoes por tipo de usuario.
 
-`TypeScript` `E-commerce` `Design Patterns` `Full Stack`
+<p>
+  <a href="https://github.com/BeiruthDEV/Orbia">
+    <img src="./assets/orbia.png" alt="Preview do Orbia" width="84%" />
+  </a>
+</p>
+
+`Django` `Python` `Sistema web` `Autenticacao`
 
 ### [TaskManagerAPI](https://github.com/BeiruthDEV/TaskManagerAPI)
 API REST para gerenciamento de tarefas, criada com Spring Boot 3, Spring Data JPA e H2 Database.
 <p>
   <a href="https://github.com/BeiruthDEV/TaskManagerAPI">
-    <img src="./assets/Trackio.png" alt="Preview do loveline-demo" width="84%" />
+    <img src="./assets/Trackio.png" alt="Preview do TaskManagerAPI" width="84%" />
   </a>
 </p>
 
@@ -112,7 +96,7 @@ API REST para gerenciamento de tarefas, criada com Spring Boot 3, Spring Data JP
 
 ## Recursos
 
-- [CV em Portugues](./assets/CV_Matheus_Beiruth_FullStack.pdf)
+- [CV em Portugues](./assets/CV_Matheus_Beiruth_FullStack_2026.pdf)
 - [CV in English](./assets/CV_Matheus_Beiruth_FullStack_EN.pdf)
 
 ---
