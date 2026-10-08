@@ -1,7 +1,6 @@
 # Matheus Beiruth
 
-Estudante de Engenharia de Software (7º período) focado em **back-end com Python** e em **aplicações com IA** (LLM, RAG e agentes).
-Gosto de projetos com arquitetura clara, testes e deploy, não só código que "funciona na minha máquina".
+Desenvolvedor back-end com foco em Python. Construo APIs, sistemas orientados a eventos e, agora, aplicações com LLM.
 
 📍 Maricá, RJ · [LinkedIn](https://linkedin.com/in/matheusbeiruth) · matheusbeiruth10@gmail.com
 
@@ -10,12 +9,13 @@ Gosto de projetos com arquitetura clara, testes e deploy, não só código que "
 - Estudando LLMs, RAG, agentes e Model Context Protocol (MCP)
 - Próximo projeto: um sistema de **RAG** com FastAPI, PostgreSQL/pgvector e avaliação de qualidade
 
-## Stack principal
+## Stack
 
-**Back-end:** Python · FastAPI · Django · Java · Spring Boot
-**Dados:** PostgreSQL · MongoDB · Redis · RabbitMQ
-**Infra e qualidade:** Docker · GitHub Actions · pytest · JUnit/Cucumber
-**Front e mobile:** TypeScript · React · Next.js · React Native
+### Back-End e Full Stack
+[![Back-End](https://skillicons.dev/icons?i=py,java,ts,js,fastapi,django,spring,nextjs,react)](https://skillicons.dev)
+
+### Dados e Infraestrutura
+[![Infra](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq,docker,linux,git,githubactions)](https://skillicons.dev)
 
 ## Projetos em destaque
 
