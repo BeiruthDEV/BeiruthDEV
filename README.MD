@@ -79,3 +79,8 @@ Sistema web em Django para gestão de empresas, representantes, projetos e pesqu
 </p>
 
 `Django` `Python` `PostgreSQL` `Leaflet` `Autenticação`
+
+
+## Currículo
+
+📄 [Baixar currículo (PDF)](./assets/CV_Matheus_Beiruth_BackEnd_2026.pdf)
