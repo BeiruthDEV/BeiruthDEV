@@ -136,6 +136,6 @@ Django web system for managing companies, representatives, projects and surveys,
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-4B5563?style=flat-square)
 
-## Résumé
+## CV
 
-📄 [Download résumé (PDF)](./assets/CV_Matheus_Beiruth_BackEnd_2026.pdf)
+📄 [Download CV (PDF)](./assets/CV_Matheus_Beiruth_BackEnd_2026.pdf)
