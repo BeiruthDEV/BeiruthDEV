@@ -4,11 +4,11 @@
 
 Backend developer based in Maricá, Brazil, working mostly in Python and Java. I build REST APIs and event-driven systems: a task management API structured as a modular monolith with ports and adapters, covered by 55 automated tests; a mobility backend that publishes ride events to RabbitMQ and settles driver balances atomically in Redis; a personal finance SaaS that parses bank statements out of PDF and CSV and categorizes transactions on its own. On the front end I work with TypeScript, React and Next.js, and I have shipped an offline Android app whose focus sessions block other apps through a native Kotlin accessibility service. Currently studying LLM applications — RAG, agents and the Model Context Protocol.
 
-📍 Maricá, RJ · [LinkedIn](https://linkedin.com/in/matheusbeiruth) · matheusbeiruth10@gmail.com
+📍 Maricá, RJ, Brazil · [LinkedIn](https://linkedin.com/in/matheusbeiruth) · matheusbeiruth10@gmail.com
 
 ---
 
-### 💻 Languages and Tools
+### 🧰 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="42" />
@@ -21,7 +21,7 @@ Backend developer based in Maricá, Brazil, working mostly in Python and Java. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring Boot" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React e React Native" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React and React Native" height="42" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="42" />
@@ -47,19 +47,19 @@ Backend developer based in Maricá, Brazil, working mostly in Python and Java. I
 
 ---
 
-## Agora
+## Right now
 
-- Estudando LLMs, RAG, agentes e Model Context Protocol (MCP)
-- Próximo projeto: um sistema de **RAG** com FastAPI, PostgreSQL/pgvector e avaliação de qualidade
+- Studying LLMs, RAG, agents and the Model Context Protocol (MCP)
+- Next project: a **RAG** system with FastAPI, PostgreSQL/pgvector and quality evaluation
 
-## Projetos em Destaque
+## Featured Projects
 
 ### [Trackio](https://github.com/BeiruthDEV/TaskManagerAPI)
-API de gestão de tarefas em monólito modular (ports/adapters), com Kanban, dashboard, 55 testes automatizados (unitários, integração e BDD), CI e deploy.
+Task management API built as a modular monolith with ports and adapters, with a Kanban board, a dashboard, 55 automated tests (unit, integration and BDD), CI and deployment.
 
 <p>
   <a href="https://github.com/BeiruthDEV/TaskManagerAPI">
-    <img src="./assets/Trackio.png" alt="Preview do Trackio" width="84%" />
+    <img src="./assets/Trackio.png" alt="Trackio preview" width="84%" />
   </a>
 </p>
 
@@ -71,11 +71,11 @@ API de gestão de tarefas em monólito modular (ports/adapters), com Kanban, das
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
 ### [TransFlow](https://github.com/BeiruthDEV/transflow-backend)
-API de mobilidade orientada a eventos: registra corridas, publica eventos no RabbitMQ e um worker atualiza o saldo do motorista de forma atômica no Redis.
+Event-driven mobility API: it records rides, publishes the events to RabbitMQ, and a worker updates the driver's balance atomically in Redis.
 
 <p>
   <a href="https://github.com/BeiruthDEV/transflow-backend">
-    <img src="https://raw.githubusercontent.com/BeiruthDEV/transflow-backend/main/assets/front1.png" alt="Preview do TransFlow" width="84%" />
+    <img src="https://raw.githubusercontent.com/BeiruthDEV/transflow-backend/main/assets/front1.png" alt="TransFlow preview" width="84%" />
   </a>
 </p>
 
@@ -87,14 +87,14 @@ API de mobilidade orientada a eventos: registra corridas, publica eventos no Rab
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### [Gestão Ativa](https://github.com/BeiruthDEV/gestao-ativa-demo)
-SaaS de finanças pessoais com dashboard, leitura de extratos em PDF/CSV, categorização automática de transações e detecção de recorrências.
+Personal finance SaaS with a dashboard, bank statement parsing from PDF and CSV, automatic transaction categorization and recurring charge detection.
 
 <p>
   <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
-    <img src="./assets/gestao_ativa_1.png" alt="Preview 1 do Gestão Ativa" width="41.5%" />
+    <img src="./assets/gestao_ativa_1.png" alt="Gestão Ativa preview 1" width="41.5%" />
   </a>
   <a href="https://github.com/BeiruthDEV/gestao-ativa-demo">
-    <img src="./assets/gestao_ativa_2.png" alt="Preview 2 do Gestão Ativa" width="41.5%" />
+    <img src="./assets/gestao_ativa_2.png" alt="Gestão Ativa preview 2" width="41.5%" />
   </a>
 </p>
 
@@ -105,14 +105,14 @@ SaaS de finanças pessoais com dashboard, leitura de extratos em PDF/CSV, catego
 ![SaaS](https://img.shields.io/badge/SaaS-4B5563?style=flat-square)
 
 ### [StayOn](https://github.com/BeiruthDEV/StayOn)
-App Android de foco e produtividade, offline e sem conta: tarefas, hábitos, agenda em blocos e sessões de foco com bloqueio de apps via módulo nativo em Kotlin.
+Android focus and productivity app, offline and account-free: tasks, habits, a time-block schedule, and focus sessions that block other apps through a native Kotlin module.
 
 <p>
   <a href="https://github.com/BeiruthDEV/StayOn">
-    <img src="./assets/stayon_1.webp" alt="Preview 1 do StayOn" width="25%" />
+    <img src="./assets/stayon_1.webp" alt="StayOn preview 1" width="25%" />
   </a>
   <a href="https://github.com/BeiruthDEV/StayOn">
-    <img src="./assets/stayon_2.webp" alt="Preview 2 do StayOn" width="25%" />
+    <img src="./assets/stayon_2.webp" alt="StayOn preview 2" width="25%" />
   </a>
 </p>
 
@@ -122,11 +122,11 @@ App Android de foco e produtividade, offline e sem conta: tarefas, hábitos, age
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### [Orbia](https://github.com/BeiruthDEV/Orbia)
-Sistema web em Django para gestão de empresas, representantes, projetos e pesquisas, com mapas, dashboards e permissões por tipo de usuário.
+Django web system for managing companies, representatives, projects and surveys, with maps, dashboards and role-based permissions.
 
 <p>
   <a href="https://github.com/BeiruthDEV/Orbia">
-    <img src="./assets/orbia.png" alt="Preview do Orbia" width="84%" />
+    <img src="./assets/orbia.png" alt="Orbia preview" width="84%" />
   </a>
 </p>
 
@@ -134,9 +134,8 @@ Sistema web em Django para gestão de empresas, representantes, projetos e pesqu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Autenticação](https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-4B5563?style=flat-square)
+![Authentication](https://img.shields.io/badge/Authentication-4B5563?style=flat-square)
 
-## Currículo
+## Résumé
 
-📄 [Baixar currículo (PDF)](./assets/CV_Matheus_Beiruth_BackEnd_2026.pdf)
-
+📄 [Download résumé (PDF)](./assets/CV_Matheus_Beiruth_BackEnd_2026.pdf)
